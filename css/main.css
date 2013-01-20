@@ -1,0 +1,56 @@
+* {
+	margin:0;
+	padding:0;
+}
+#menu {
+	position:absolute;
+	left : 10px;
+	top: 500px;
+}
+#slider {
+	width: 600px;
+}
+#myCanvas {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 640px;
+	height: 480px;
+	background-color: none;
+}
+#colorPalet {
+	position: absolute;
+	left: 660px;
+	top : 5px;
+	border : 1px solid black;
+}
+#colorPalet div {
+	width: 32px;
+	height : 32px;
+	border:1px solid gray;
+}
+#black {
+	background-color : #000000;
+}
+#blue {
+	background-color : #0000ff;
+}
+#red {
+	background-color : #ff0000;
+}
+#magenta {
+	background-color : #ff00ff;
+}
+#green {
+	background-color : #00ff00;
+}
+#cyan {
+	background-color : #00ffff;
+}
+#yellow {
+	background-color : #ffff00;
+}
+#white {
+	background-color : #ffffff;
+}
+
